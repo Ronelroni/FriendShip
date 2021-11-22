@@ -31,24 +31,26 @@ $ rails s
 
 Catalog Design
 
-https://docs.google.com/spreadsheets/d/1cADqJd7faVW6DBCcdlHqIRB4PG12JGtAKgsE3SMdGVE/edit#gid=0
+https://docs.google.com/spreadsheets/d/1cADqJd7faVW6DBCcdlHqIRB4PG12JGtAKgsE3SMdGVE/edit?usp=sharing
 
 
 Table Definition Document
 
-https://docs.google.com/spreadsheets/d/1q7OL9cwEAC7YfyAA5fCZQopi7ocv4YmA6OFCbwKa6EU/edit#gid=0
+https://docs.google.com/spreadsheets/d/1q7OL9cwEAC7YfyAA5fCZQopi7ocv4YmA6OFCbwKa6EU/edit?usp=sharing
 
 
 ER Diagram
+https://cacoo.com/diagrams/P29j4XAC9BcNapG7-E1424.png
 
 https://cacoo.com/diagrams/P29j4XAC9BcNapG7/E1424
 
-
 Screen Transition Diagram
+https://cacoo.com/diagrams/P29j4XAC9BcNapG7-B2282.png
 
 https://cacoo.com/diagrams/P29j4XAC9BcNapG7/B2282
 
+
 Wireframes
+https://cacoo.com/diagrams/P29j4XAC9BcNapG7-E8284.png
 
 https://cacoo.com/diagrams/P29j4XAC9BcNapG7/E8284
-
