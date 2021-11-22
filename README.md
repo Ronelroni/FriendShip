@@ -5,16 +5,21 @@ Ruby 2.6.5
 Rails 5.2.6
 
 Things you may want to cover:
+
 --------------
 
 # Employmemnt Term Technology
 Devise
 
 Fonction de message
+
 --------------------
 
-# Technologies outside the curriculum
+# Technologies outside the curriculum  
+
 Cloudinary
+
+
 ---------------------
 
 # Execution Procedure
