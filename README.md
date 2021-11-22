@@ -42,7 +42,6 @@ $ rails s
 Catalog Design  
 
 https://docs.google.com/spreadsheets/d/1cADqJd7faVW6DBCcdlHqIRB4PG12JGtAKgsE3SMdGVE/edit?usp=sharing
-
 -------------------
 
 Table Definition Document 
@@ -50,7 +49,6 @@ Table Definition Document
 --------------------
 
 https://docs.google.com/spreadsheets/d/1q7OL9cwEAC7YfyAA5fCZQopi7ocv4YmA6OFCbwKa6EU/edit?usp=sharing
-
 -------------------------
 
 ER Diagram  
