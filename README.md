@@ -11,7 +11,7 @@ Things you may want to cover:
 # Employmemnt Term Technology
 Devise
 
-Fonction de message
+Fonction de Commentaire
 
 --------------------
 
